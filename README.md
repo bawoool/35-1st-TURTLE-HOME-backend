@@ -17,6 +17,7 @@
 - Git
 - Bcrypt
 - JWT
+- AWS
 
 # Communications
 - Trello
@@ -32,8 +33,13 @@
   - User API
     - 회원가입
     - 로그인
-    - 장바구니 CRUD
     - 회원탈퇴
+    - 비밀번호변경
+  - Cart API
+    - 장바구니 담기
+    - 장바구니 조회
+    - 장바구니 삭제
+    - 장바구니 변경
     
 - 전은형
   - DB Modeling
